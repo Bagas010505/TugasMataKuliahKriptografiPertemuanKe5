@@ -4,7 +4,7 @@
 
 ![gambar](Screenshots/SS1.png)
 
-# Input dan output hill cipher
+# Input dan output dari hill cipher
 
 ![gambar](Screenshots/SS2.png)
 ![gambar](Screenshots/SS3.png)
